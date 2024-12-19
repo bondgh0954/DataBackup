@@ -23,3 +23,6 @@ Additionally, these snapshots can be employed to produce new volumes when needed
 
 The fundamental importance of snapshots in maintaining data integrity and continuity underpins the motivation for this project."
 
+# Steps
+
+
