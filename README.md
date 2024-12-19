@@ -30,3 +30,8 @@ get the volumeId as it is required to create snapshot
 loop through the volumes and create snap shot by referring to the volumeid
 
 
+# Step2
+The best practice is to keep only the latest snapshots and automatically creating snapshots of volumes every day may lead to lots of snapshots and therefore needs to automatically delete old snapshots of volumes.
+
+
+
