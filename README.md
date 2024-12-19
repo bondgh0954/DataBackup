@@ -25,4 +25,8 @@ The fundamental importance of snapshots in maintaining data integrity and contin
 
 # Steps
 
+Check the boto documentation
+get the volumeId as it is required to create snapshot
+loop through the volumes and create snap shot by referring to the volumeid
+
 
