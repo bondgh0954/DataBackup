@@ -14,11 +14,12 @@ Write a Python script that restores EC2 Volumes   <br/>
 
 Volumes are AWS Storage Components that stores EC2 instance data and every EC2 has volumes where it writes its data.
    
-The creation of 'snapshots'is important due to the risk of data corruption. Snapshot creation is the generation of a comprehensive backup of EC2 instance data  
+The creation of 'snapshots'is important due to the risk of data corruption. 
+Snapshot creation is the generation of a comprehensive backup of EC2 instance data  
+which enables seamless data recovery if the original volumes become corrupted or compromised. 
 
-which enables seamless data recovery if the original volumes become corrupted or compromised. Additionally, these snapshots can be employed to produce new volumes
+Additionally, these snapshots can be employed to produce new volumes when needed. 
 
-when needed. Given these critical functions, it is imperative to automate snapshots creation to ensure that daily backups of volumes are consistently generated. 
 
 The fundamental importance of snapshots in maintaining data integrity and continuity underpins the motivation for this project."
 
